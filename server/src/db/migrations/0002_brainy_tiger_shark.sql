@@ -1,0 +1,1 @@
+ALTER TABLE "rooms" ALTER COLUMN "created_by" SET DATA TYPE uuid;
